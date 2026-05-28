@@ -1,3 +1,5 @@
+//program to calculate sum of first n natural number
+
 #include<iostream>
 using namespace std;
 int main()
