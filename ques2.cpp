@@ -13,6 +13,5 @@ int main(){
         cout<<n<<"*"<<i<<"="<<(n*i)<<endl;
     }
     
-
     return 0;
 }
